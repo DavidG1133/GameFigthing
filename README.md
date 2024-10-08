@@ -1,7 +1,7 @@
 # Wild Brawl 
 
 ## Género
-Género: Lucha en 2D con Elementos de Animales
+#### Género: Lucha en 2D con Elementos de Animales
 
 #### Descripción del género:
 Este videojuego pertenece al género de juegos de lucha, un tipo de juego de acción donde los jugadores controlan personajes animales que se enfrentan entre sí en combates cuerpo a cuerpo. Se centrará en batallas rápidas y estratégicas, en las que los jugadores deben aprender y dominar una serie de movimientos especiales, ataques básicos, combos y defensas para vencer a sus oponentes.
