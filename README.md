@@ -1,6 +1,6 @@
 # Clash of the Wild
 
-## Género
+
 #### Género: Lucha en 2D con Elementos de Animales
 
 #### Descripción del género:
