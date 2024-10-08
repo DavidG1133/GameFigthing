@@ -14,7 +14,9 @@ El jugador tendrá control directo sobre uno de los personajes animales en panta
 Las características de la jugabilidad incluirán:
 
  Modo 1 contra 1: Combates individuales donde el jugador se enfrenta a otro animal controlado por otro jugador.
+ 
  Mecánicas de combos: Al igual que en muchos juegos de lucha, los jugadores podrán ejecutar combos enlazando diferentes movimientos para maximizar el daño.
+ 
  Multijugador local y en línea: El juego permitirá el enfrentamiento de dos jugadores en mediante conexión en línea.
 
 
