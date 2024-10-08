@@ -20,3 +20,23 @@ Las características de la jugabilidad incluirán:
  - Multijugador local y en línea: El juego permitirá el enfrentamiento de dos jugadores en mediante conexión en línea.
 
 
+## Público Objetivo
+
+#### 1. Por Rango de Edad:
+
+- Niños (8-12 años): Los personajes animales y un estilo visual más amigable y colorido podrían atraer a un público más joven. A esta edad, los jugadores buscan juegos fáciles de entender pero con cierto nivel de desafío, como aprender movimientos o combos.
+- Adolescentes (13-18 años): Los adolescentes disfrutan de mecánicas de combate más complejas y competitivas. Un sistema de lucha bien equilibrado con habilidades especiales y modos multijugador podría captar su atención. También suelen disfrutar de personalización de personajes y un estilo visual más dinámico.
+
+#### 2. Por Género:
+
+Género mixto: Un juego de lucha con animales podría atraer a un público amplio, sin una inclinación marcada hacia un solo género. El uso de personajes animales con habilidades diferenciadas puede tener un atractivo universal, tanto para jugadores masculinos como femeninos, especialmente si se combina con un estilo visual que no se incline demasiado hacia la violencia extrema o gráficos oscuros.
+
+#### 3. Por Perfil de Jugador (Taxonomía de Bartle):
+
+- Logradores: Estos jugadores disfrutan de alcanzar metas y completar desafíos. 
+- Competitivos: Jugadores que buscan destacar sobre otros en un entorno competitivo. El modo multijugador, los torneos y las tablas de clasificación atraerán a los jugadores que disfrutan de enfrentarse a otros.
+
+
+#### 4. Por Nivel de Experiencia:
+ - Jugadores casuales: Dado que los personajes son animales y el estilo de combate puede ser accesible, podrías atraer a jugadores casuales que buscan un juego divertido y relajado, sin una curva de aprendizaje extremadamente difícil.
+ -  Jugadores intermedios/competitivos: Si incorporas mecánicas de combate más profundas, como combos, habilidades especiales y torneos, también puedes captar a jugadores con más experiencia que busquen un desafío competitivo en modos multijugador.
