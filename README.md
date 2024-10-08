@@ -1,4 +1,4 @@
-# Wild Brawl 
+# Clash of the Wild
 
 ## Género
 #### Género: Lucha en 2D con Elementos de Animales
