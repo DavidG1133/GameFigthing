@@ -40,3 +40,23 @@ Género mixto: Un juego de lucha con animales podría atraer a un público ampli
 #### 4. Por Nivel de Experiencia:
  - Jugadores casuales: Dado que los personajes son animales y el estilo de combate puede ser accesible, podrías atraer a jugadores casuales que buscan un juego divertido y relajado, sin una curva de aprendizaje extremadamente difícil.
  -  Jugadores intermedios/competitivos: Si incorporas mecánicas de combate más profundas, como combos, habilidades especiales y torneos, también puedes captar a jugadores con más experiencia que busquen un desafío competitivo en modos multijugador.
+
+## Historia – storyboard 
+
+#### Título: “Clash of the Wild: Guerra de Reinos”
+
+En un mundo donde los animales han desarrollado inteligencia avanzada, los ecosistemas se han dividido en distintos reinos. Cada reino está controlado por una especie dominante, y el equilibrio entre ellos ha sido mantenido a través de un frágil pacto que ya no puede sostenerse. Las crecientes tensiones por el control de recursos como agua, comida y territorio han llevado a la disolución de ese pacto, desatando una Guerra de Reinos.
+
+Cada reino ha elegido a sus guerreros más fuertes y fieros para luchar en un torneo decisivo. El ganador no solo obtendrá el dominio absoluto sobre todos los territorios, sino también el respeto eterno de todas las especies. No hay reglas claras en esta batalla, solo la supervivencia del más fuerte. Los animales no luchan solo por el prestigio, sino por la supervivencia de su especie.
+Cada reino lucha por su supremacía en la guerra, y solo uno será coronado como el verdadero gobernante de todos los ecosistemas.
+
+#### Dinámicas Relacionadas con la Historia
+
+Lucha por el Territorio:
+- Torneo por la Supremacía: Cada combate es parte de la guerra por el control del territorio. El jugador elige representar a un reino y lucha por expandir su dominio. La historia se desarrolla a medida que avanza el torneo, mostrando cómo cada victoria acerca al jugador a la conquista de todos los territorios.
+- Conflictos entre Reinos: Los personajes no solo luchan por ganar el torneo, sino por el honor y la supervivencia de su reino. Las motivaciones de cada especie pueden estar relacionadas con la protección de su territorio, la búsqueda de recursos o la venganza por agravios pasados.
+
+
+
+
+
