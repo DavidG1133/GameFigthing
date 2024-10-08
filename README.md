@@ -56,6 +56,26 @@ Lucha por el Territorio:
 - Torneo por la Supremacía: Cada combate es parte de la guerra por el control del territorio. El jugador elige representar a un reino y lucha por expandir su dominio. La historia se desarrolla a medida que avanza el torneo, mostrando cómo cada victoria acerca al jugador a la conquista de todos los territorios.
 - Conflictos entre Reinos: Los personajes no solo luchan por ganar el torneo, sino por el honor y la supervivencia de su reino. Las motivaciones de cada especie pueden estar relacionadas con la protección de su territorio, la búsqueda de recursos o la venganza por agravios pasados.
 
+## Personajes 
+
+Personalización de Reinos y Personajes:
+
+        - Reino de los Felinos
+        - Reino de los Herbívoros
+        - Reino de las Aves
+        - Reino de los Reptiles
+
+![image](https://github.com/user-attachments/assets/5a8ec631-ae19-4911-8121-4a781357c96a)
+
+
+
+
+
+
+
+
+
+
 
 
 
