@@ -69,6 +69,24 @@ Personalización de Reinos y Personajes:
 ![image](https://github.com/user-attachments/assets/43ea2008-e5cc-4379-b292-d4e25ef602a8)
 ![image](https://github.com/user-attachments/assets/9e105992-621a-4b65-a320-4fa6f0c8a11a)
 
+#### Niveles 
+
+#### Nivel Propuesto: "Ronda del Torneo"
+#### Descripción del Escenario:
+
+La Ronda del Torneo se lleva a cabo en un cuadrilátero al aire libre, rodeado por una multitud animada de criaturas de los cuatro reinos. La arena está diseñada como un ring de boxeo, con un suelo arenoso y un borde elevado, donde los espectadores pueden ver claramente las batallas. Las paredes de la arena están adornadas con emblemas de cada reino, creando un ambiente vibrante y competitivo.
+Características del Escenario:
+
+- Ring Central: El área principal de combate es un cuadrilátero marcado con líneas que delimitan el espacio de lucha. Solo dos personajes se enfrentan en cada combate, utilizando sus habilidades y estrategias para derrotar a su oponente.
+- Rondas de Combate: Cada combate se organiza en rondas. El primer personaje en ganar un número específico de rondas (por ejemplo, 3 de 5) es declarado el vencedor.
+- Eventos Especiales: Durante el combate, pueden ocurrir eventos especiales como "Aplausos del Público", donde la multitud anima a un luchador, aumentando temporalmente su fuerza o defensa.
+- Power-Ups: En ciertos momentos, pueden aparecer power-ups en el ring, como aumentos de salud o potenciadores de velocidad, que el jugador puede recoger para mejorar sus posibilidades de ganar.
+
+#### Desarrollo de la Historia:
+
+A medida que avanza el torneo, los personajes se enfrentan uno a uno en diferentes rondas. Cada victoria no solo otorga puntos, sino que también permite a los personajes demostrar su valía y habilidades únicas. Los enfrentamientos se vuelven cada vez más desafiantes, y los jugadores deben adaptar sus tácticas y estrategias para superar a sus oponentes.
+
+El objetivo final es llegar a la última ronda y convertirse en el campeón del torneo, ganando el respeto y la admiración de las criaturas de todos los reinos.
 
 
 
