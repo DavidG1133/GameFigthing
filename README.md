@@ -116,8 +116,36 @@ El objetivo final es llegar a la última ronda y convertirse en el campeón del 
 
 #### 5. Efectos Visuales:
 - Efectos de Ataque: Efectos simples y coloridos que se alineen con los colores de los personajes, como destellos que acompañen ataques y habilidades.
-- Elementos de Entorno: Partículas mínimas (como polvo levantado) que realcen la acción sin saturar la pantalla.
 
+## Metodología de Desarrollo
+
+###1. Metodología Ágil (Scrum)
+
+La metodología de desarrollo elegida para "Clash of the Wild: Torneo de las Bestias" es Scrum, una de las metodologías ágiles más utilizadas en el desarrollo de videojuegos. Esta elección se justifica por las siguientes razones:
+
+   - Adaptabilidad: La naturaleza del desarrollo de videojuegos a menudo implica cambios y ajustes en el diseño y la mecánica del juego. Scrum permite adaptarse rápidamente a nuevas ideas y requisitos a medida que surgen, facilitando la incorporación de retroalimentación continua.
+
+   - Iteraciones Cortas: El desarrollo se organiza en ciclos cortos llamados "sprints", generalmente de 2 a 4 semanas. Esto permite al equipo concentrarse en tareas específicas y revisar el progreso regularmente, asegurando que el juego esté avanzando hacia los objetivos establecidos.
+
+   - Colaboración del Equipo: Scrum promueve la comunicación constante entre los miembros del equipo a través de reuniones diarias (Daily Stand-ups) y revisiones al final de cada sprint. Esto fomenta un ambiente colaborativo donde todos los integrantes pueden contribuir con ideas y solucionar problemas de manera conjunta.
+
+### 2. Herramientas de Desarrollo
+
+   - Gestión de Proyectos: Se utilizarán herramientas como Trello o Jira para planificar y hacer seguimiento de las tareas y el progreso del desarrollo. Estas herramientas permiten visualizar el estado de cada tarea y priorizar el trabajo en función de las necesidades del proyecto.
+
+   - Control de Versiones: Git será utilizado para el control de versiones del código, permitiendo que múltiples desarrolladores trabajen simultáneamente sin conflictos y facilitando la gestión de cambios en el proyecto.
+
+   - Motor de Juego: Se elegirá un motor de juego adecuado, como Unity o Godot, que soporte desarrollo en 2D y ofrezca las herramientas necesarias para implementar la jugabilidad y los gráficos del juego.
+
+### 3. Proceso de Desarrollo
+
+  -  Fase de Planificación: En esta fase inicial, se definirán los requisitos del juego, la historia, los personajes y la mecánica de combate. Se llevarán a cabo sesiones de lluvia de ideas y se elaborará un prototipo básico para establecer la dirección del proyecto.
+
+  -  Desarrollo Iterativo: A través de sprints, el equipo desarrollará el juego de manera iterativa, concentrándose en diferentes aspectos en cada ciclo, como la implementación de personajes, mecánicas de juego y elementos gráficos. Al final de cada sprint, se realizará una revisión para evaluar el progreso y ajustar el enfoque según sea necesario.
+
+  -  Pruebas y Ajustes: Las pruebas se llevarán a cabo al final de cada sprint para identificar errores y áreas de mejora. La retroalimentación de pruebas internas y de usuarios será fundamental para refinar la jugabilidad y la experiencia del jugador.
+
+  -  Fase de Lanzamiento: Una vez completadas las pruebas y ajustes, el juego se preparará para su lanzamiento. Se implementará una estrategia de marketing para promover el juego y se considerarán opciones de distribución en plataformas digitales.
 
 
 
