@@ -119,7 +119,7 @@ El objetivo final es llegar a la última ronda y convertirse en el campeón del 
 
 ## Metodología de Desarrollo
 
-###1. Metodología Ágil (Scrum)
+### 1. Metodología Ágil (Scrum)
 
 La metodología de desarrollo elegida para "Clash of the Wild: Torneo de las Bestias" es Scrum, una de las metodologías ágiles más utilizadas en el desarrollo de videojuegos. Esta elección se justifica por las siguientes razones:
 
@@ -130,8 +130,6 @@ La metodología de desarrollo elegida para "Clash of the Wild: Torneo de las Bes
    - Colaboración del Equipo: Scrum promueve la comunicación constante entre los miembros del equipo a través de reuniones diarias (Daily Stand-ups) y revisiones al final de cada sprint. Esto fomenta un ambiente colaborativo donde todos los integrantes pueden contribuir con ideas y solucionar problemas de manera conjunta.
 
 ### 2. Herramientas de Desarrollo
-
-   - Gestión de Proyectos: Se utilizarán herramientas como Trello o Jira para planificar y hacer seguimiento de las tareas y el progreso del desarrollo. Estas herramientas permiten visualizar el estado de cada tarea y priorizar el trabajo en función de las necesidades del proyecto.
 
    - Control de Versiones: Git será utilizado para el control de versiones del código, permitiendo que múltiples desarrolladores trabajen simultáneamente sin conflictos y facilitando la gestión de cambios en el proyecto.
 
