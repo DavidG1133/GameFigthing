@@ -145,12 +145,10 @@ La metodología de desarrollo elegida para "Clash of the Wild: Torneo de las Bes
 
   -  Fase de Lanzamiento: Una vez completadas las pruebas y ajustes, el juego se preparará para su lanzamiento. Se implementará una estrategia de marketing para promover el juego y se considerarán opciones de distribución en plataformas digitales.
 
+## Propuesta de plan de trabajo 
 
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/96a16c2b-67fd-4f44-845d-617e1f448d3c)
+![image](https://github.com/user-attachments/assets/1c4ac522-c5ab-48ce-8869-5cef439b74fb)
 
 
 
