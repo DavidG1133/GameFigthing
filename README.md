@@ -75,12 +75,12 @@ Personalización de Reinos y Personajes:
 #### Descripción del Escenario:
 
 La Ronda del Torneo se lleva a cabo en un cuadrilátero al aire libre, rodeado por una multitud animada de criaturas de los cuatro reinos. La arena está diseñada como un ring de boxeo, con un suelo arenoso y un borde elevado, donde los espectadores pueden ver claramente las batallas. Las paredes de la arena están adornadas con emblemas de cada reino, creando un ambiente vibrante y competitivo.
-Características del Escenario:
 
+Características del Escenario:
 - Ring Central: El área principal de combate es un cuadrilátero marcado con líneas que delimitan el espacio de lucha. Solo dos personajes se enfrentan en cada combate, utilizando sus habilidades y estrategias para derrotar a su oponente.
 - Rondas de Combate: Cada combate se organiza en rondas. El primer personaje en ganar un número específico de rondas (por ejemplo, 3 de 5) es declarado el vencedor.
-- Eventos Especiales: Durante el combate, pueden ocurrir eventos especiales como "Aplausos del Público", donde la multitud anima a un luchador, aumentando temporalmente su fuerza o defensa.
-- Power-Ups: En ciertos momentos, pueden aparecer power-ups en el ring, como aumentos de salud o potenciadores de velocidad, que el jugador puede recoger para mejorar sus posibilidades de ganar.
+
+
 
 #### Desarrollo de la Historia:
 
