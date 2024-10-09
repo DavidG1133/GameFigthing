@@ -133,7 +133,7 @@ La metodología de desarrollo elegida para "Clash of the Wild: Torneo de las Bes
 
    - Control de Versiones: Git será utilizado para el control de versiones del código, permitiendo que múltiples desarrolladores trabajen simultáneamente sin conflictos y facilitando la gestión de cambios en el proyecto.
 
-   - Motor de Juego: Se elegirá un motor de juego adecuado, como Unity o Godot, que soporte desarrollo en 2D y ofrezca las herramientas necesarias para implementar la jugabilidad y los gráficos del juego.
+   - Motor de Juego: Se elegirá un motor de juego adecuado, como Unity, que soporta desarrollo en 2D y ofrece las herramientas necesarias para implementar la jugabilidad y los gráficos del juego.
 
 ### 3. Proceso de Desarrollo
 
