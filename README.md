@@ -69,7 +69,7 @@ Personalización de Reinos y Personajes:
 ![image](https://github.com/user-attachments/assets/43ea2008-e5cc-4379-b292-d4e25ef602a8)
 ![image](https://github.com/user-attachments/assets/9e105992-621a-4b65-a320-4fa6f0c8a11a)
 
-#### Niveles 
+## Niveles 
 
 #### Nivel Propuesto: "Ronda del Torneo"
 #### Descripción del Escenario:
