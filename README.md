@@ -65,7 +65,12 @@ Personalización de Reinos y Personajes:
         - Reino de las Aves
         - Reino de los Reptiles
 
-![image](https://github.com/user-attachments/assets/5a8ec631-ae19-4911-8121-4a781357c96a)
+![image](https://github.com/user-attachments/assets/3963d26c-afe7-4f10-8115-efbbca72147c) 
+![image](https://github.com/user-attachments/assets/43ea2008-e5cc-4379-b292-d4e25ef602a8)
+![image](https://github.com/user-attachments/assets/9e105992-621a-4b65-a320-4fa6f0c8a11a)
+
+
+
 
 
 
