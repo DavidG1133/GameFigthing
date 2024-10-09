@@ -88,6 +88,40 @@ A medida que avanza el torneo, los personajes se enfrentan uno a uno en diferent
 
 El objetivo final es llegar a la última ronda y convertirse en el campeón del torneo, ganando el respeto y la admiración de las criaturas de todos los reinos.
 
+## Elementos Gráficos
+
+#### 1. Estilo Visual:
+
+Gráficos 2D: Mantener un estilo artístico 2D caricaturesco, centrado en los colores naturales de los animales. Esto ayudará a que cada personaje sea fácilmente identificable y se resalte su individualidad.
+    Paleta de Colores: Utilizar los colores predominantes de los personajes:
+        Rajah, la Sombra de la Jungla: Amarillos y tonos oscuros, con detalles en verde esmeralda.
+        Tuskarr, el Coloso de Marfil: Grises claros y tonos beige, con matices de marrón.
+        Pico, el Sabio del Bosque: Amarillos, negros y toques de azul, reflejando el plumaje del tucán.
+        Draco, el Maestro de las Escamas: Verdes oscuros y grises con patrones de escala, representando la robustez del dragón de Komodo.
+    Escenario: El Coliseo debe tener una paleta de colores neutra que no compita con los personajes, usando tonos de arena y piedra. Elementos decorativos pueden ser simples, como banderas de los reinos en colores suaves.
+
+#### 2. Personajes:
+
+    Diseño de Personajes: Cada personaje debe tener un diseño distintivo que refleje sus colores naturales y características. Los sprites deben ser claros y simples, permitiendo que los colores brillen sin sobrecargar el diseño.
+    Animaciones: Animaciones fluidas para las acciones básicas (correr, saltar, atacar) y habilidades especiales, manteniendo un estilo que resalte los colores de los personajes.
+
+#### 3. Escenario:
+
+    Coliseo: Un diseño de coliseo simple, con un fondo que sugiera profundidad. Las paredes pueden estar adornadas con símbolos de los reinos, pero sin colores demasiado llamativos, para mantener el enfoque en los personajes.
+    Fondo Estático: Un fondo que represente la atmósfera del coliseo, como un cielo claro o una multitud de animales en tonos apagados, sin distraer de la acción principal.
+
+#### 4. Interfaz de Usuario :
+
+    Diseño de Menús: Menús simples que utilicen iconos relacionados con los personajes y el entorno, en tonos que complementen la paleta de colores sin restar protagonismo a los personajes.
+    Indicadores de Salud y Energía: Barras de salud y energía en colores que correspondan con cada personaje, manteniendo la claridad y legibilidad.
+
+#### 5. Efectos Visuales:
+
+    Efectos de Ataque: Efectos simples y coloridos que se alineen con los colores de los personajes, como destellos que acompañen ataques y habilidades.
+    Elementos de Entorno: Partículas mínimas (como polvo levantado) que realcen la acción sin saturar la pantalla.
+
+
+
 
 
 
