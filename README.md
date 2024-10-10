@@ -6,7 +6,7 @@
 #### Descripción del género:
 Este videojuego pertenece al género de juegos de lucha, un tipo de juego de acción donde los jugadores controlan personajes animales que se enfrentan entre sí en combates cuerpo a cuerpo. Se centrará en batallas rápidas y estratégicas, en las que los jugadores deben aprender y dominar una serie de movimientos especiales, ataques básicos, combos y defensas para vencer a sus oponentes.
 
-El juego podría tener una mezcla de elementos de juegos de lucha clásicos y mecánicas modernas, combinando ataques cuerpo a cuerpo con habilidades únicas de cada animal, aprovechando sus características distintivas (como la fuerza de un gorila o la agilidad de un felino). Los escenarios y estilos de combate variarán según el entorno de cada animal (jungla, sabana, bosques, etc.), lo que añade dinamismo a cada enfrentamiento.
+El juego podría tener una mezcla de elementos de juegos de lucha clásicos y mecánicas modernas, combinando ataques cuerpo a cuerpo con habilidades únicas, aprovechando sus características distintivas.
 
 #### Estilo de jugabilidad:
 
@@ -17,7 +17,7 @@ Las características de la jugabilidad incluirán:
  
  - Mecánicas de combos: Al igual que en muchos juegos de lucha, los jugadores podrán ejecutar combos enlazando diferentes movimientos para maximizar el daño.
  
- - Multijugador local y en línea: El juego permitirá el enfrentamiento de dos jugadores en mediante conexión en línea.
+ - Multijugador local: El juego permitirá el enfrentamiento de dos jugadores, de manera local.
 
 
 ## Público Objetivo
@@ -127,7 +127,7 @@ La metodología de desarrollo elegida para "Clash of the Wild: Torneo de las Bes
 
    - Iteraciones Cortas: El desarrollo se organiza en ciclos cortos llamados "sprints", generalmente de 2 a 4 semanas. Esto permite al equipo concentrarse en tareas específicas y revisar el progreso regularmente, asegurando que el juego esté avanzando hacia los objetivos establecidos.
 
-   - Colaboración del Equipo: Scrum promueve la comunicación constante entre los miembros del equipo a través de reuniones diarias (Daily Stand-ups) y revisiones al final de cada sprint. Esto fomenta un ambiente colaborativo donde todos los integrantes pueden contribuir con ideas y solucionar problemas de manera conjunta.
+   - Colaboración del Equipo: Scrum promueve la comunicación constante entre los miembros del equipo a través de reuniones diarias y revisiones al final de cada sprint. Esto fomenta un ambiente colaborativo donde todos los integrantes pueden contribuir con ideas y solucionar problemas de manera conjunta.
 
 ### 2. Herramientas de Desarrollo
 
