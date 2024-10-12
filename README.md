@@ -1,6 +1,6 @@
 # Clash of the Wild
 
-## INTEGRANTES DEL EQUIPO: 
+### INTEGRANTES DEL EQUIPO: 
 - Daniela Alvarado Luna 
 - Manuel Castillo Pisil 
 - David Gonzalez Amaro 
