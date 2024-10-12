@@ -1,5 +1,11 @@
 # Clash of the Wild
 
+## INTEGRANTES DEL EQUIPO: 
+- Daniela Alvarado Luna 
+- Manuel Castillo Pisil 
+- David Gonzalez Amaro 
+- Sandra Neri Molina 
+- Dana Edith Monfil Rosales
 
 #### Género: Lucha en 2D con Elementos de Animales
 
